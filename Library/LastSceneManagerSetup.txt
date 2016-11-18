@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/helloScene.unity
+- path: Assets/models/helloScene.unity
   isLoaded: 1
   isActive: 1
